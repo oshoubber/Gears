@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Gears</string>
+    <string name="app_name2">Gears - OBD2 Scanner</string>
+    <string name="diagnose">Fault Code Diagnosis</string>
+    <string name="realtime">Live Information</string>
+    <string name="tests">System Testing</string>
+    <string name="title">OBD2 Vehicle Diagnostic Tool</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav">Menu</string>
+    <string name="home">Home</string>
+    <string name="feedback">Feedback</string>
+    <string name="okay">Okay</string>
+    <string name="action_settings">Settings</string>
+    <string name="gSearchButton">Google Search</string>
+    <string name="clear_dtcs">Clear all Fault Codes</string>
+    <string name="ms2">m/s<sup><small>2</small></sup></string>
+    <string name="helpDialog">1. Make sure to plug in your OBD2 Adapter, then start your car.\n\n2.
+        Make sure you have already paired your phone with your device in your Bluetooth settings
+        (accessible from the main menu).\n\n3. Make sure your adapter is working, usually an LED light
+        will light up to indicate that your device is receiving  power.</string>
+    <string name="title_activity_live_information">LiveInformationActivity</string>
+
+    <string name="st1">Misfire</string>
+    <string name="st2">Fuel System</string>
+    <string name="st3">Components</string>
+    <string name="st4">Reserved</string>
+    <string name="st5">Catalyst</string>
+    <string name="st6">Heated Catalyst</string>
+    <string name="st7">Evaporative System</string>
+    <string name="st8">Secondary Air System</string>
+    <string name="st9">A/C Refrigerant</string>
+    <string name="st10">O<sub><small>2</small></sub> Sensor</string>
+    <string name="st11">O<sub><small>2</small></sub> Sensor Heater</string>
+    <string name="st12">EGR System</string>
+
+    <string name="rt1">Misfire</string>
+    <string name="rt2">Fuel System</string>
+    <string name="rt3">Components</string>
+    <string name="rt4">Reserved</string>
+    <string name="rt5">Catalyst</string>
+    <string name="rt6">Heated Catalyst</string>
+    <string name="rt7">Evaporative System</string>
+    <string name="rt8">Secondary Air System</string>
+    <string name="rt9">A/C Refrigerant</string>
+    <string name="rt10">O<sub><small>2</small></sub> Sensor</string>
+    <string name="rt11">O<sub><small>2</small></sub> Sensor Heater</string>
+    <string name="rt12">EGR System</string>
+</resources>
